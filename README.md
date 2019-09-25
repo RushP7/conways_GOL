@@ -1,2 +1,1 @@
-# conways_GOF
-# Conway's Game of Life
+# Conway's Game Of Life
